@@ -10,8 +10,8 @@
     <div class="vertical-menu">
         <a class="active">Select a Database View</a>
         <a href="all_emp.php">All Employees in a department</a>
-        <a href="#">Products under a department</a>
-        <a href="#">Link 3</a>
+        <a href="dept_product.php">Product Details in a Department</a>
+        <a href="dept_location.php">Department Locations</a>
         <a href="#">Link 4</a>
     </div> 
     <br>
