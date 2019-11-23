@@ -35,6 +35,7 @@
 <html>
 <head>
     <title>Views</title>
+    <link rel="stylesheet" type="text/css" href="table.css">
 </head>
 <body>
     <br>
