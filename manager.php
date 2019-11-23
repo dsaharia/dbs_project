@@ -12,7 +12,9 @@
         <a href="all_emp.php">All Employees in a department</a>
         <a href="dept_product.php">Product Details in a Department</a>
         <a href="dept_location.php">Department Locations</a>
-        <a href="#">Link 4</a>
+        <a href="emp_count.php">Count of Employees</a>
+        <a href="emp_prod.php">Number of Employees working in a department </a>
+
     </div> 
     <br>
     <a href="logout.php">Logout</a>

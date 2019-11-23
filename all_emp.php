@@ -19,7 +19,6 @@
         echo "<th>Phone</th>";
         echo "<th>Qualification</th>";
         echo "<th>Post</th>";
-        echo "<th>Dept. ID</th>";
         echo "</tr>";
         while($row=mysqli_fetch_assoc($result)){
             echo "<tr>"; 
@@ -33,7 +32,6 @@
                 echo "<td>".$row['Phone']."</td>";
                 echo "<td>".$row['Qualification']."</td>";
                 echo "<td>".$row['Post']."</td>";
-                echo "<td>".$row['D_ID']."</td>";
             echo "</tr>"; 
         }
     }
@@ -49,6 +47,7 @@
 <html>
 <head>
     <title>Views</title>
+    <link rel="stylesheet" type="text/css" href="table.css">
 </head>
 <body>
     <form action="" method="POST">
